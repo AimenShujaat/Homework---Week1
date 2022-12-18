@@ -91,7 +91,6 @@ To keep their dominance, Coinbase will have to be on top of the regulatory chang
 ![Homework---Week1](Coinbase-Revenue-Chart.png)
 
 
-
 ## Recommendations
 
 One possible recommendation for Coinbase would be to collaborate with Traditional Banking Instituions. 
