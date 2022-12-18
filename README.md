@@ -99,3 +99,33 @@ Customers will have more faith in Crypto if the two institutions merged. It will
 
 Blockchain solutions can be applied to achieve the desired outcome. 
 The decentralised nature of blockchain will help streamline all the processes and will reduce costs as well. 
+
+### References
+* [https://www.businessofapps.com/data/coinbase-statistics/]()
+
+* [https://www.wsj.com/articles/BL-VCDB-12953]()
+
+* [https://www.coindesk.com/markets/2013/12/12/coinbase-raises-25-million-in-bitcoins-biggest-ever-funding-deal/]()
+
+*   [https://www.crunchbase.com/organization/coinbase/company_financials]()
+*   [https://startuptalky.com/coinbase-success-story/#Coinbase_Coinbase-]()
+
+*   [https://explodingtopics.com/blog/cryptocurrency-trends]()
+
+*   [https://www.cbinsights.com/company/coinbase/alternatives-competitors]()
+
+* [https://en.wikipedia.org/wiki/Coinbase]()
+
+* [https://www.coinbase.com/au]()
+
+* [https://assets.kpmg/content/dam/kpmg/xx/pdf/2022/02/pulse-of-fintech-h2-21.pdf]()
+
+* [https://surf.dev/coinbase-tech-stack-technologies-that-power-the-cryptocurrency-platform/#:~:text=Coinbase%20Wallet%20applies%20Web%203.0,cryptocurrency%2C%20keys%2C%20and%20data.]()
+
+* [https://everfi.com/blog/financial-education/emerging-tech-in-financial-services/]()
+
+* [https://www.wns.com/perspectives/articles/articledetail/35/top-trends-in-banking-and-financial-services]()
+
+* [https://www.slideteam.net/blog/coinbase-original-pitch-deck-4-things-you-need-to-learn#:~:text=The%20USP%20of%20Coinbase%20is,coins%20through%20the%20platform%20itself.]()
+
+* [https://www.cnbc.com/2021/08/24/coinbase-slammed-for-terrible-customer-service-after-hackers-drain-user-accounts.html]()
