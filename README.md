@@ -1,7 +1,7 @@
 # COINBASE GLOBAL INC
+---
 
 ## Overview and Origin 
----
 
 Coinbase is an online platform that gives it's user to buy, trade and store cryptocurrencies through its digital wallet.
 
@@ -12,7 +12,6 @@ The co-founder of the company includes Fred Ersham who worked as a trader in Gol
 The two founders used their expertise and put all of it into creating Coinbase in the elite technology incubator - Y Combinator.
 
 ## Funding Historty for Coinbase
----
 
 The initial injection of US $150,000 was given to Armstong through the Y Combinator startup incubator program. 
 
@@ -22,7 +21,6 @@ The total funding raised by Coinbase amounts up  to US $573.7 Million.
 As of November 2022, Coinbase is funded by a total of 73 investors. ARK Investment Management is one of the most recent investors, with the investment of US $21.4M. 
 
 ## Users and Offers and Technolgy
----
 
 The company's targeted audience in millenials, primarily people aged between 25-45 from around the world, but the Coinbase network is also used by the retailers and institutional customers. 
 
@@ -46,7 +44,6 @@ They review their blockchain designs regularly as safety of the customer is thei
 
 
 ## Threats and Strategies
----
 
 Volatility of the Crypto market is one of the major threats faced by Coinbase as it is directly affected by Crypto asset prices.
 
@@ -61,7 +58,6 @@ To manage such probelems in the future Coinbase intends to expand its Digital As
 The Crypto space needs more regulations in place and Coinbase is one of the major companies in this space that works within the current rules and regulation of the Crypto Industry. 
 
 ## Trends and Innovations 
----
 
 Some of the major trends and innovations experienced by the Crypto Space are as follows: 
 
@@ -73,7 +69,6 @@ Some of the major trends and innovations experienced by the Crypto Space are as 
 
 
 ## Major Competitors and Performance Comparison 
----
 
 Sinc becoming public in 2021, a 513.66% increase was reported in its revenue and it's net  income saw a steep rise of 2760.77% to US$ 3.1 billion.
 
