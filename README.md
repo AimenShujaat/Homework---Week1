@@ -88,9 +88,7 @@ Some other major competitors include
 Coinbase still holds the position of largest Blockchain company and it has used it's first-mover-advantage in the crypto space to build a massive customer base. 
 To keep their dominance, Coinbase will have to be on top of the regulatory changes and technological advancements. 
 
-![markdown-image](Coinbase-Revenue-Chart.png)
-
-
+![](Coinbase-Revenue-Chart.png)
 
 
 
